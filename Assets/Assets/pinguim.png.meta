@@ -152,9 +152,9 @@ TextureImporter:
       name: pinguim_0
       rect:
         serializedVersion: 2
-        x: 4
+        x: 5
         y: 5
-        width: 24
+        width: 22
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -163,8 +163,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc62aba40c878c34fbbd611176d0f4e4
-      internalID: -20099632
+      spriteID: 602009cd3c597c144b472ad48d34186e
+      internalID: 1723984673
       vertices: []
       indices: 
       edges: []
@@ -175,6 +175,27 @@ TextureImporter:
         serializedVersion: 2
         x: 38
         y: 5
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8f64b5b9d427f4eb44f1e6491f00cc
+      internalID: -742117242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinguim_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 5
         width: 20
         height: 24
       alignment: 0
@@ -184,29 +205,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99bfed75bb7e14a4ea4743f2c4c1f24e
-      internalID: 240039908
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pinguim_2
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 5
-        width: 24
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ee6faee5e8849fd44963005c91d9fdaa
-      internalID: -298497755
+      spriteID: 01f05a81a4f36c347bb7b740d5fc64be
+      internalID: -1259892996
       vertices: []
       indices: 
       edges: []
@@ -217,6 +217,69 @@ TextureImporter:
         serializedVersion: 2
         x: 100
         y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3489f799b9ca9409eb19984fe28dda
+      internalID: 1478018268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinguim_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 5
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b8519d355cbad45b1ad16e5e45fc8f
+      internalID: -949090272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinguim_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f327fbe7cfcdf8346a0c98f2ce611384
+      internalID: -778621811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinguim_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 5
         width: 20
         height: 24
       alignment: 0
@@ -226,8 +289,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f0a4f771a14db534ca5033851ddc1dae
-      internalID: 415336900
+      spriteID: d0455b87b0d98924bb48330bcb6fe22b
+      internalID: 741083185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinguim_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 5
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c938682a6fcc5c4284b365e61a531c8
+      internalID: 580823711
       vertices: []
       indices: 
       edges: []
@@ -243,10 +327,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      pinguim_0: -20099632
-      pinguim_1: 240039908
-      pinguim_2: -298497755
-      pinguim_3: 415336900
+      pinguim_0: 1723984673
+      pinguim_1: -742117242
+      pinguim_2: -1259892996
+      pinguim_3: 1478018268
+      pinguim_4: -949090272
+      pinguim_5: -778621811
+      pinguim_6: 741083185
+      pinguim_7: 580823711
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

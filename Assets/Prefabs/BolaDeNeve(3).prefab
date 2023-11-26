@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 317740314247517927}
   - component: {fileID: 4883557541410734461}
-  - component: {fileID: 7918623910082626888}
   m_Layer: 0
   m_Name: BolaDeNeve(3)
   m_TagString: Untagged
@@ -69,33 +68,6 @@ CircleCollider2D:
   m_Offset: {x: -0.19601446, y: 0.2638827}
   serializedVersion: 2
   m_Radius: 0.15436749
---- !u!50 &7918623910082626888
-Rigidbody2D:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3265645897335871126}
-  m_BodyType: 0
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 0.0001
-  m_LinearDrag: 0
-  m_AngularDrag: 0
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!1 &4199429047734291492
 GameObject:
   m_ObjectHideFlags: 0
