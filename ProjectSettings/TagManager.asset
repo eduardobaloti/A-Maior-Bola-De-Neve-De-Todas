@@ -6,6 +6,7 @@ TagManager:
   tags:
   - snow
   - gelo
+  - estilingue
   layers:
   - Default
   - TransparentFX

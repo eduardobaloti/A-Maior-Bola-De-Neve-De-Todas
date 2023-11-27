@@ -163,8 +163,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 602009cd3c597c144b472ad48d34186e
-      internalID: 1723984673
+      spriteID: d573e3d618e37c94f9fb63fc2c2b2c90
+      internalID: 1259729753
       vertices: []
       indices: 
       edges: []
@@ -175,7 +175,7 @@ TextureImporter:
         serializedVersion: 2
         x: 38
         y: 5
-        width: 21
+        width: 20
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -184,8 +184,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be8f64b5b9d427f4eb44f1e6491f00cc
-      internalID: -742117242
+      spriteID: b1011c95ee56289429fc27bd629bbbfa
+      internalID: 1349516549
       vertices: []
       indices: 
       edges: []
@@ -205,8 +205,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 01f05a81a4f36c347bb7b740d5fc64be
-      internalID: -1259892996
+      spriteID: 65186cf27889e6449bed0e54216770c3
+      internalID: -788689122
       vertices: []
       indices: 
       edges: []
@@ -215,8 +215,8 @@ TextureImporter:
       name: pinguim_3
       rect:
         serializedVersion: 2
-        x: 100
-        y: 5
+        x: 102
+        y: 3
         width: 22
         height: 24
       alignment: 0
@@ -226,8 +226,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e3489f799b9ca9409eb19984fe28dda
-      internalID: 1478018268
+      spriteID: 581f60ce784692242badf51e3b16980b
+      internalID: 223600191
       vertices: []
       indices: 
       edges: []
@@ -237,7 +237,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 132
-        y: 5
+        y: 3
         width: 24
         height: 24
       alignment: 0
@@ -247,8 +247,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b0b8519d355cbad45b1ad16e5e45fc8f
-      internalID: -949090272
+      spriteID: 46255782adc282a48b458b4a9fb9b5e3
+      internalID: -127441777
       vertices: []
       indices: 
       edges: []
@@ -257,8 +257,8 @@ TextureImporter:
       name: pinguim_5
       rect:
         serializedVersion: 2
-        x: 164
-        y: 5
+        x: 166
+        y: 3
         width: 22
         height: 24
       alignment: 0
@@ -268,8 +268,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f327fbe7cfcdf8346a0c98f2ce611384
-      internalID: -778621811
+      spriteID: 18f7d0a5a580df24ab91f6f0fbfbf9ab
+      internalID: -853602782
       vertices: []
       indices: 
       edges: []
@@ -289,8 +289,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d0455b87b0d98924bb48330bcb6fe22b
-      internalID: 741083185
+      spriteID: dacff34c1b513a349b24d6faea5643d6
+      internalID: -811366525
       vertices: []
       indices: 
       edges: []
@@ -299,9 +299,9 @@ TextureImporter:
       name: pinguim_7
       rect:
         serializedVersion: 2
-        x: 227
+        x: 230
         y: 5
-        width: 21
+        width: 20
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -310,8 +310,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c938682a6fcc5c4284b365e61a531c8
-      internalID: 580823711
+      spriteID: 9225880687e3d284eb1ed271883a36d9
+      internalID: 482277315
       vertices: []
       indices: 
       edges: []
@@ -327,14 +327,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      pinguim_0: 1723984673
-      pinguim_1: -742117242
-      pinguim_2: -1259892996
-      pinguim_3: 1478018268
-      pinguim_4: -949090272
-      pinguim_5: -778621811
-      pinguim_6: 741083185
-      pinguim_7: 580823711
+      pinguim_0: 1259729753
+      pinguim_1: 1349516549
+      pinguim_2: -788689122
+      pinguim_3: 223600191
+      pinguim_4: -127441777
+      pinguim_5: -853602782
+      pinguim_6: -811366525
+      pinguim_7: 482277315
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
