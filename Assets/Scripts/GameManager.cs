@@ -27,7 +27,6 @@ public class GameManager : Singleton<GameManager>
     void Start()
     {
         StartCoroutine(WaitStart());
- 
     }
 
     void Update()
@@ -40,7 +39,7 @@ public class GameManager : Singleton<GameManager>
             StartCoroutine(Contador());
         }
 
-        int segundos = Mathf.FloorToInt(Time.time % 60);
+        int segundos = Mathf.FloorToInt(Time.timeSinceLevelLoad % 60);
         int timeLasting = 60 - segundos;
 
         tempo.text = timeLasting.ToString();
@@ -64,9 +63,15 @@ public class GameManager : Singleton<GameManager>
     {
         audio.Stop();
         jogoGanho = true;
+        derrota.SetActive(false);
         StopCoroutine(Contador());
         vitoria.SetActive(true);
+        derrota.SetActive(false);
         fase += 1;
+    }
+
+    public void ProximaFase()
+    {
         Menu.Instance.LoadGameInd(SceneManager.GetActiveScene().buildIndex + 1);
     }
 

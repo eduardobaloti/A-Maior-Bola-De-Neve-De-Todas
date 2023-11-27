@@ -49,7 +49,7 @@ public class Bola : MonoBehaviour
                 knockback(collision.contacts[0].point);
                 
             }
-            GameManager.Instance.AumentarPorcentagem(-4);
+            GameManager.Instance.AumentarPorcentagem(-2);
         }
     }
     
